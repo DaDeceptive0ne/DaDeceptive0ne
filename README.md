@@ -18,7 +18,7 @@ Of course I am not ignoring state of the art technologies. I am a little bit lat
 
 ### Disclaimer 
 
-Since I am still new in programming I don't have lots os projects. Maintaining a fulltime job while learning is a task that should rather not be underestimated. 
+Since I am still new in programming I don't have lots of projects. Maintaining a fulltime job while learning is a task that should rather not be underestimated. 
 
 However I think it's still best practice to tackle some problems that might happen in projects that are close to reality. 
 
