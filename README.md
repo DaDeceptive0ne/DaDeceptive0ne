@@ -1,8 +1,10 @@
 # Hi there! I'm Bobby 💙 [Under construction 🚧]
+<details>
+<summary>
+  <h1>TL;DR 🚀 </h1>
+</summary>
 
-<h1>TL;DR</h1>
-
-# My Programming Journey 🚀
+# My Programming Journey 🚈
 
 ## 🌟 The Beginning
 
@@ -31,9 +33,10 @@ Linux
 
 - [LinkedIn](https://www.linkedin.com/in/khaled-habiby/)
 - [Personal Website] (Under Construction) - Coming soon!
+</details>
 
 <details>
-<summary> <h1> Long Version 🚀 </h1> </summary>
+<summary> <h1> Long Version 📓 </h1> </summary>
 
 ## The beginning of my journey 
 
