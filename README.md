@@ -1,6 +1,6 @@
 # Hi there! I'm Bobby 💙 [Under construction 🚧]
-<details>
-<summary> <h1>TL;DR</h1> </summary>
+
+<h1>TL;DR</h1>
 
 # My Programming Journey 🚀
 
@@ -31,7 +31,9 @@ Linux
 
 - [LinkedIn](https://www.linkedin.com/in/khaled-habiby/)
 - [Personal Website] (Under Construction) - Coming soon!
-</details>
+
+<details>
+<summary> <h1> Long Version 🚀 </h1> </summary>
 
 ## The beginning of my journey 
 
@@ -85,3 +87,5 @@ However I think it's still best practice to tackle some problems that might happ
 I love to connect to people 💙 and since I am absolutely new to this field, I am more to happy to connect!
 
 If you ever have some suggestions to any project or want to contact me for any other reason - feel free to do so! 😊 
+
+</details>
