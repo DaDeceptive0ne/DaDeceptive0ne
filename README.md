@@ -1,4 +1,4 @@
-# Hi there! I'm Bobby 💙 My Profile Page is still under construction 🚧
+# Hi there! I'm Bobby 💙 [Under construction 🚧]
 <details>
 <summary> <h1>TL;DR</h1> </summary>
 
