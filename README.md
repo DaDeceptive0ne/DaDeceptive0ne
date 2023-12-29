@@ -1,4 +1,37 @@
-# Hi there! I'm Bobby 💙
+# Hi there! I'm Bobby 💙 My Profile Page is still under construction 🚧
+<details>
+<summary> <h1>TL;DR</h1> </summary>
+
+# My Programming Journey 🚀
+
+## 🌟 The Beginning
+
+- IT explorer since July 2023, shifting from a non-programming background.
+
+## Technologies & Tools
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Microsoft_SQL_Server-informational?style=flat&logo=Microsoft-SQL-Server&logoColor=white&color=blue)
+Linux 
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
+
+## 🔮 Envisioning the Future
+
+- Aiming for a Linux Sysadmin role in IT
+- Keen on catching up with state-of-the-art technologies once more familiar with the field
+
+## 🚧 Projects in the Pipeline
+
+### 1. Discord Bot 🤖
+
+### 2. TicTacToe AI (Contribution) 🤯
+
+### 3. File Sorting Program 🗂️
+
+## 🤝 Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/khaled-habiby/)
+- [Personal Website] (Under Construction) - Coming soon!
+</details>
 
 ## The beginning of my journey 
 
@@ -40,7 +73,7 @@ However I think it's still best practice to tackle some problems that might happ
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/khaled-habiby/) for a deeper dive into my professional journey.
 - Stay tuned for updates as I continue crafting my portfolio to showcase my diverse skills and projects.
 
-## Let's Connect
+## Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/khaled-habiby/)
 - As I will learn more and more in programming and different technologies, I will also add a [Personal Website] which is currently under construction. Once finished, you can find it linked here 
