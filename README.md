@@ -95,5 +95,12 @@ If you ever have some suggestions to any project or want to contact me for any o
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord?border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 ```python
-DaDeceptive0ne_skill = [Python, T-SQL, Linux] # Only the beginning of a wonderful journey
+DaDeceptive0ne_skills = ['Python', 'T-SQL', 'Linux'] # Only the beginning of a wonderful journey
+DaDeceptive0ne_interests = ['Python', 'T-SQL', 'Linux', 'Kubernetes', 'Docker', 'JavaScript', 'SystemAdministration', 'DevOps']
+
+for skill in DaDeceptive0ne_skills:
+  if skill in DaDeceptive0ne_interests:
+    print('Already achieved')
+  else:
+    print('Hard working on it :)')
 ```
