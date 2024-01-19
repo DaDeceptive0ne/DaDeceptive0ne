@@ -98,6 +98,7 @@ If you ever have some suggestions to any project or want to contact me for any o
 DaDeceptive0ne_skills =    ['Python', 
                             'T-SQL', 
                             'Linux'] # Only the beginning of a wonderful journey
+
 DaDeceptive0ne_interests = ['Python',  
                             'T-SQL', 
                             'Linux', 
