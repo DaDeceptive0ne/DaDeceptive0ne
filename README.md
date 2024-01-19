@@ -92,3 +92,5 @@ I love to connect to people 💙 and since I am absolutely new to this field, I 
 If you ever have some suggestions to any project or want to contact me for any other reason - feel free to do so! 😊 
 
 </details>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord?border=true)](https://github.com/piyushsuthar/github-readme-quotes)
